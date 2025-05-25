@@ -16,3 +16,11 @@ env/
 
 # OS crap
 Thumbs.db
+
+# mlflow 
+data/
+artifacts/
+artifacts_local/
+mlartifacts/
+mlruns/
+output/
